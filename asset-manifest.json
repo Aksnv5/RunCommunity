@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/RunCommunity/static/css/main.d1f9dfc8.css",
-    "main.js": "/RunCommunity/static/js/main.304472d6.js",
+    "main.css": "/RunCommunity/static/css/main.c34bba57.css",
+    "main.js": "/RunCommunity/static/js/main.ac712219.js",
     "static/js/453.b7d8202a.chunk.js": "/RunCommunity/static/js/453.b7d8202a.chunk.js",
     "static/media/avatar.jpg": "/RunCommunity/static/media/avatar.e1ce5c33b4804d38fbce.jpg",
     "static/media/logo.png": "/RunCommunity/static/media/logo.0606363b54f1b3f80477.png",
+    "static/media/icon1.svg": "/RunCommunity/static/media/icon1.a6cefa02663bfc3af0136f2d44ca880f.svg",
+    "static/media/icon3.svg": "/RunCommunity/static/media/icon3.9afac5c42578702cf8f44baf877e2ec3.svg",
+    "static/media/icon2.svg": "/RunCommunity/static/media/icon2.ced76a8ec5434482c492bde3df870e68.svg",
     "index.html": "/RunCommunity/index.html",
-    "main.d1f9dfc8.css.map": "/RunCommunity/static/css/main.d1f9dfc8.css.map",
-    "main.304472d6.js.map": "/RunCommunity/static/js/main.304472d6.js.map",
+    "main.c34bba57.css.map": "/RunCommunity/static/css/main.c34bba57.css.map",
+    "main.ac712219.js.map": "/RunCommunity/static/js/main.ac712219.js.map",
     "453.b7d8202a.chunk.js.map": "/RunCommunity/static/js/453.b7d8202a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1f9dfc8.css",
-    "static/js/main.304472d6.js"
+    "static/css/main.c34bba57.css",
+    "static/js/main.ac712219.js"
   ]
 }
