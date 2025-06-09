@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RunCommunity/static/css/main.7401aad6.css",
+    "main.js": "/RunCommunity/static/js/main.12625904.js",
+    "static/js/453.b7d8202a.chunk.js": "/RunCommunity/static/js/453.b7d8202a.chunk.js",
+    "static/media/avatar.jpg": "/RunCommunity/static/media/avatar.e1ce5c33b4804d38fbce.jpg",
+    "static/media/logo.png": "/RunCommunity/static/media/logo.0606363b54f1b3f80477.png",
+    "index.html": "/RunCommunity/index.html",
+    "main.7401aad6.css.map": "/RunCommunity/static/css/main.7401aad6.css.map",
+    "main.12625904.js.map": "/RunCommunity/static/js/main.12625904.js.map",
+    "453.b7d8202a.chunk.js.map": "/RunCommunity/static/js/453.b7d8202a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7401aad6.css",
+    "static/js/main.12625904.js"
+  ]
+}
