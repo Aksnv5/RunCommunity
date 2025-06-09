@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RunCommunity/static/css/main.da350c72.css",
+    "main.css": "/RunCommunity/static/css/main.41286fb4.css",
     "main.js": "/RunCommunity/static/js/main.168d2bac.js",
     "static/js/453.b7d8202a.chunk.js": "/RunCommunity/static/js/453.b7d8202a.chunk.js",
     "static/media/avatar.jpg": "/RunCommunity/static/media/avatar.e1ce5c33b4804d38fbce.jpg",
@@ -9,12 +9,12 @@
     "static/media/icon3.svg": "/RunCommunity/static/media/icon3.9afac5c42578702cf8f44baf877e2ec3.svg",
     "static/media/icon2.svg": "/RunCommunity/static/media/icon2.ced76a8ec5434482c492bde3df870e68.svg",
     "index.html": "/RunCommunity/index.html",
-    "main.da350c72.css.map": "/RunCommunity/static/css/main.da350c72.css.map",
+    "main.41286fb4.css.map": "/RunCommunity/static/css/main.41286fb4.css.map",
     "main.168d2bac.js.map": "/RunCommunity/static/js/main.168d2bac.js.map",
     "453.b7d8202a.chunk.js.map": "/RunCommunity/static/js/453.b7d8202a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da350c72.css",
+    "static/css/main.41286fb4.css",
     "static/js/main.168d2bac.js"
   ]
 }
